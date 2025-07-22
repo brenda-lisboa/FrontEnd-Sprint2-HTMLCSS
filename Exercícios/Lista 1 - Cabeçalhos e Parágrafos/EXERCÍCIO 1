@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="descripiton" content="lorem alguma coisa">
+        <title>Parágrafos e Cabeçalhos</title>
+
+    </head>
+    <body>
+
+        <h2>Uma história de sucesso</h2>
+         
+
+        <h1>O mundo web</h1>
+
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio laboriosam eum in esse iure porro nemo praesentium temporibus! Libero, unde quo delectus consequuntur tempora soluta voluptate repellat error repellendus similique.
+        </p>
+
+        <p>Todos os direitos reservados</p>
+    </body>
+</html>
