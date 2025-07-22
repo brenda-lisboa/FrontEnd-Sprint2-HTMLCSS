@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="descripiton" content="lorem alguma coisa">
+        <title>Parágrafos e Cabeçalhos</title>
+
+    </head>
+    <body>
+
+        <h1>Programação Web</h1>
+         
+
+        <h2>Front-end</h2>
+        <h2>HTML</h2>
+
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio laboriosam eum in esse iure porro nemo praesentium temporibus! Libero, unde quo delectus consequuntur tempora soluta voluptate repellat error repellendus similique.
+        </p>
+
+        <h2>CSS</h2>
+
+        <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure ipsa iste eligendi asperiores officia soluta corporis velit illo, similique architecto illum a sint dicta vel aliquam amet ipsam. Mollitia, nostrum.</P>
+
+        <h2>JavaScript</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe molestiae nesciunt repellat asperiores itaque, ex, velit necessitatibus a maiores eligendi aspernatur doloremque soluta veniam. Quae sed cum aspernatur placeat laborum!
+        </p>
+
+        <h2>Bibliotecas</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium qui quos voluptatum, veniam obcaecati a illo ut laudantium quibusdam, accusamus, iure explicabo amet beatae molestias cumque praesentium reiciendis alias deserunt!</p>
+    </body>
+</html>
