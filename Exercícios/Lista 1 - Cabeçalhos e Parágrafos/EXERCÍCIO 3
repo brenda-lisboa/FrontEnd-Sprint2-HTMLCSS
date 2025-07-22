@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="descripiton" content="lorem alguma coisa">
+        <title>Parágrafos e Cabeçalhos</title>
+
+    </head>
+    <body>
+
+        <h1>Bibliotecas Front-end</h1>
+
+        <h2>Opções em alta no mercado</h2>
+         
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae eius rerum quis ex sunt illum unde molestiae est, maxime doloribus fugit nihil inventore non, praesentium, aut facere iusto incidunt. Illum.</p>
+
+        <h4>React JS</h4>
+        <h4>Angular</h4>    
+        <h4>Vue JS</h4>
+        <h4>Boostrap</h4>
+
+        <p>Todos os direitos reservados</p>
+    
+    </body>
+</html>
